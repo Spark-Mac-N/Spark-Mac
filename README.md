@@ -1,7 +1,7 @@
 # Spark – Smart Email Client and Team Collaboration for Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/33235/l/spark-logo.png?v=1670486757" width="200" alt="Spark icon"/>
+  <img src="https://pic.macked.app/static/4626eaf4ad214907c493f8689edce0e3-1694005552.webp" width="200" alt="Spark icon"/>
 </p>
 
 <p align="center">
